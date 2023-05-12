@@ -11,4 +11,4 @@ Instructions:
 2. Generate a new Google Forms from the Python app. This creates a Form with the needed entries along with the Google Sheets file to operate
 3. Have people fill out the Form. Responses are exported into the Sheets file.
 4. Create/Link a YouTube playlist
-5. Sync the YouTuve playlist with the Sheets file.
+5. Sync the YouTube playlist with the Sheets file.
