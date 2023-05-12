@@ -1,9 +1,11 @@
 # YouTube-Music-Playlist-Compiler
 A Python app that syncs a YouTube playlist with a user-selected Google Sheet
 
-Compile Requirments
+Tutorials Used
 
-- Google Cloud SDK
+- [Google Forms Python Quickstart](https://developers.google.com/forms/api/quickstart/python)
+- [Google Sheets Python Quickstart](https://developers.google.com/sheets/api/quickstart/python)
+- [YouTube Data API Python Quickstart](https://developers.google.com/youtube/v3/quickstart/python)
 
 Instructions:
 
